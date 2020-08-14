@@ -1,4 +1,4 @@
-"bear, 
+bear, 
 archaeologist, 
 sunflower, 
 hair, 
@@ -2295,4 +2295,4 @@ raincoat,
 sunburn, 
 robber, 
 leave, 
-girl"
+girl
